@@ -25,7 +25,7 @@
 
 ## Introduction
 
-This repo holds the website for wawcd.com
+This repo holds the website for   <a href="https://www.wawcd.com">wawcd.com</a>
 The website is built with:
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blueviolet)](https://tailwindcss.com/)
