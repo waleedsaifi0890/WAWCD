@@ -30,7 +30,6 @@ This repo holds the website for wawcd.com. The website is built with:
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blueviolet)](https://tailwindcss.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-lightgrey)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://www.typescriptlang.org/)
-[![Dato CMS](https://img.shields.io/badge/Dato%20CMS-brightgreen)](https://www.datocms.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-green)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-green)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)](https://www.mongodb.com/)
@@ -64,16 +63,20 @@ Effortlessly add annotations to your content for clear communication and feedbac
 
 
 ## ChatGPT integration
-Introducing our innovative ChatGPT integration with WhatsApp – a powerful combination that enhances your messaging experience like never before. ChatGPT, an advanced AI language model, joins forces with WhatsApp to offer you a seamless and intelligent communication platform.
+Introducing our innovative ChatGPT integration with WhatsApp – a powerful combination that enhances your messaging experience like never before. ChatGPT, an advanced AI language model, joins forces with WhatsApp to offer you a seamless and intelligent communication platform offering
+  - Rephrasing Tool
+  - Translation
+  - Automated Replies
+  - AI-Assistant.
 
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 ## Other Features.
--	Smart Auto Corrections.
--	Language Translation.
--	Rephrasing.
--	And so much more.
+-	Privacy Features (Screen Lock, Blur..)
+-	Broadcasting messages.
+-	Message Scheduling.
+-	Smart Replies and so much more.
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
