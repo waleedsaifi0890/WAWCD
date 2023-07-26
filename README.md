@@ -25,7 +25,8 @@
 
 ## Introduction
 
-This repo holds the website for wawcd.com. The website is built with:
+This repo holds the website for wawcd.com
+The website is built with:
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blueviolet)](https://tailwindcss.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-lightgrey)](https://nextjs.org/)
@@ -50,7 +51,7 @@ Introducing our WhatsApp Chrome extension and mobile app, designed to enhance yo
 
 ## Contact Synchronization
 
-Providing a unified media guide that aggregates content from various streaming services, making it easier for users to discover and access movies, TV shows, and online videos in one place.
+Simplifying communication and contact management across devices. This seamless solution allows for easy syncing of contacts from desktop to phone, ensuring uninterrupted connectivity on the go.
 
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
@@ -58,25 +59,22 @@ Providing a unified media guide that aggregates content from various streaming s
 
 ## Contact Export
 
-Effortlessly add annotations to your content for clear communication and feedback
+Download WhatsApp contacts in CSV or vCard formats. Allowing users with backup and convenient management options, ensuring quick access and adaptability for various purposes
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 ## ChatGPT integration
-Introducing our innovative ChatGPT integration with WhatsApp – a powerful combination that enhances your messaging experience like never before. ChatGPT, an advanced AI language model, joins forces with WhatsApp to offer you a seamless and intelligent communication platform offering
-  - Rephrasing Tool
-  - Translation
-  - Automated Replies
-  - AI-Assistant.
+Introducing our innovative ChatGPT integration with WhatsApp – a powerful combination that enhances your messaging experience like never before. ChatGPT, an advanced AI language model, joins forces with WhatsApp to offer you a seamless and intelligent communication platform.
 
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 ## Other Features.
--	Privacy Features (Screen Lock, Blur..)
--	Broadcasting messages.
--	Message Scheduling.
--	Smart Replies and so much more.
+-	Smart Auto Corrections.
+-	Language Translation.
+-	Rephrasing.
+-	And so much more.
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
